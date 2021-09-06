@@ -1,0 +1,13 @@
+F:\Jalasoft\Courses\Development Fundamentals\Final Project\Reposteria\bin\Debug\netcoreapp3.1\Reposteria.exe
+F:\Jalasoft\Courses\Development Fundamentals\Final Project\Reposteria\bin\Debug\netcoreapp3.1\Reposteria.deps.json
+F:\Jalasoft\Courses\Development Fundamentals\Final Project\Reposteria\bin\Debug\netcoreapp3.1\Reposteria.runtimeconfig.json
+F:\Jalasoft\Courses\Development Fundamentals\Final Project\Reposteria\bin\Debug\netcoreapp3.1\Reposteria.runtimeconfig.dev.json
+F:\Jalasoft\Courses\Development Fundamentals\Final Project\Reposteria\bin\Debug\netcoreapp3.1\Reposteria.dll
+F:\Jalasoft\Courses\Development Fundamentals\Final Project\Reposteria\bin\Debug\netcoreapp3.1\Reposteria.pdb
+F:\Jalasoft\Courses\Development Fundamentals\Final Project\Reposteria\obj\Debug\netcoreapp3.1\Reposteria.csproj.AssemblyReference.cache
+F:\Jalasoft\Courses\Development Fundamentals\Final Project\Reposteria\obj\Debug\netcoreapp3.1\Reposteria.AssemblyInfoInputs.cache
+F:\Jalasoft\Courses\Development Fundamentals\Final Project\Reposteria\obj\Debug\netcoreapp3.1\Reposteria.AssemblyInfo.cs
+F:\Jalasoft\Courses\Development Fundamentals\Final Project\Reposteria\obj\Debug\netcoreapp3.1\Reposteria.csproj.CoreCompileInputs.cache
+F:\Jalasoft\Courses\Development Fundamentals\Final Project\Reposteria\obj\Debug\netcoreapp3.1\Reposteria.dll
+F:\Jalasoft\Courses\Development Fundamentals\Final Project\Reposteria\obj\Debug\netcoreapp3.1\Reposteria.pdb
+F:\Jalasoft\Courses\Development Fundamentals\Final Project\Reposteria\obj\Debug\netcoreapp3.1\Reposteria.genruntimeconfig.cache
